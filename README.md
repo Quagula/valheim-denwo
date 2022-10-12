@@ -1,0 +1,2 @@
+# valheim-denwo
+save
